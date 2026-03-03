@@ -1,6 +1,4 @@
-# 🕵️‍♂️ PRODIGY_DS_02: Credit Card Fraud Detection
-
-This repository contains my submission for **Task 02** of the Prodigy InfoTech Data Science Internship.
+# 🕵️‍♂️ Credit Card Fraud Detection
 
 ## 📄 Project Overview
 **Objective:** Perform data cleaning and Exploratory Data Analysis (EDA) on a dataset of choice.
